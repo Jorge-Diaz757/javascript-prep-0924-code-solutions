@@ -5,16 +5,16 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What tags are necessary for a complete HTML Skeleton?
-<!DOCTYPE> <html> <head> <title> <h1> <body>
+<!DOCTYPE html> <html> <head> <title> <h1> <body>
 
 - What type of content belongs within the `<head>` of an HTML document?
-<title>
+<!-- <title> -->
 
 - What type of content belongs within the `<body>` of an HTML document?
-<h1>
+<!-- <h1> -->
 
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
-  <At the very top>
+  <!-- <At the very top of the document> -->
 
 ## Notes
 
